@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "9a0e073c67196c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd6468716edcf6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e7f68f3f7d9a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/netty/nio/Selector.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cb94fb1ae403888",
+    "type": "split",
+    "children": [
+      {
+        "id": "e998fac2200b6ee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2bb68b2b7eade3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68ae3f7a6c95ce93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5a13da4541efc78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "0c915aa897b2e156",
+    "type": "split",
+    "children": [
+      {
+        "id": "776db57c87e9bdad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc5ea86179c46512",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java/netty/nio/Selector.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9169e5f515428f42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "java/netty/nio/Selector.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f496dd8e63fd605",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "536e9e6643d201ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53da8335648b7c37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "java/netty/nio/Selector.md"
+              }
+            }
+          },
+          {
+            "id": "738b28ba256cbad1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "notion-like-tables:Create loom": false,
+      "excel:Create Excel File": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "dc2bb68b2b7eade3",
+  "lastOpenFiles": [
+    "java/netty/nio/Channel & Buffer.md",
+    "java/netty/nio/Selector.md",
+    "java/netty/nio/阻塞模式 & 非阻塞模式.md",
+    "架构设计/多级缓存.md",
+    "others/Pasted image 20241005181930.png",
+    "java/netty/nio/FileChannel.md",
+    "others/Pasted image 20241005180718.png",
+    "others/Pasted image 20241005180704.png",
+    "架构设计",
+    "java/netty/nio/Files.md",
+    "java/netty/nio/Path.md",
+    "java/netty/nio/ByteBuffer.md",
+    "others/Pasted image 20241004205659.png",
+    "others/Pasted image 20241004205535.png",
+    "others/Pasted image 20241004205508.png",
+    "others/Pasted image 20241004205446.png",
+    "others/Pasted image 20241004205437.png",
+    "others/Pasted image 20241004205349.png",
+    "others/Pasted image 20241004205335.png",
+    "java/jvm/GraalVm.md",
+    "java/netty/nio",
+    "java/netty",
+    "项目/学成在线/learn",
+    "项目/学成在线/项目介绍.md",
+    "项目/学成在线/课程",
+    "项目/学成在线",
+    "项目",
+    "java/juc/锁底层.md",
+    "java/jvm/新一代GC.md",
+    "java/jvm/GC调优.md",
+    "java/jvm/jvm面试.md",
+    "java/jvm/jvm底层原理.md",
+    "java/jvm/内存泄漏场景.md",
+    "运维/docker.md",
+    "java/juc",
+    "运维/docker compose.md",
+    "java/spring初始化配置 事件.md",
+    "运维/docker file.md",
+    "go/go 基础语法.md",
+    "java/ES与MySQL的数据一致.md",
+    "Excalidraw/Drawing 2024-07-24 23.20.42.excalidraw.md",
+    "java/jvm/java工具.md",
+    "java/jvm",
+    "().md",
+    "未命名",
+    "未命名.canvas"
+  ]
+}
