@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/netty/nio/Selector.md",
+                "file": "java/spring初始化配置 事件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/netty/nio/Selector.md",
+                "file": "java/spring初始化配置 事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/netty/nio/Selector.md",
+                "file": "java/spring初始化配置 事件.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/netty/nio/Selector.md"
+                "file": "java/spring初始化配置 事件.md"
               }
             }
           },
@@ -174,8 +174,11 @@
   },
   "active": "dc2bb68b2b7eade3",
   "lastOpenFiles": [
-    "java/netty/nio/Channel & Buffer.md",
+    "架构设计/ES与MySQL的数据一致.md",
+    "java/jvm/新一代GC.md",
+    "java/jvm/内存泄漏场景.md",
     "java/netty/nio/Selector.md",
+    "java/netty/nio/Channel & Buffer.md",
     "java/netty/nio/阻塞模式 & 非阻塞模式.md",
     "架构设计/多级缓存.md",
     "others/Pasted image 20241005181930.png",
@@ -202,18 +205,15 @@
     "项目/学成在线",
     "项目",
     "java/juc/锁底层.md",
-    "java/jvm/新一代GC.md",
     "java/jvm/GC调优.md",
     "java/jvm/jvm面试.md",
     "java/jvm/jvm底层原理.md",
-    "java/jvm/内存泄漏场景.md",
     "运维/docker.md",
     "java/juc",
     "运维/docker compose.md",
     "java/spring初始化配置 事件.md",
     "运维/docker file.md",
     "go/go 基础语法.md",
-    "java/ES与MySQL的数据一致.md",
     "Excalidraw/Drawing 2024-07-24 23.20.42.excalidraw.md",
     "java/jvm/java工具.md",
     "java/jvm",
